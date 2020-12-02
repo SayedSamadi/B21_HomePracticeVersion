@@ -6,5 +6,6 @@ public class FromIjToGit {
         System.out.println("Today is the the 3rd Day for Git Class");
         //B21 is Great in Java
         //B21 is more committed
+        // B21 is successful testers
     }
 }
